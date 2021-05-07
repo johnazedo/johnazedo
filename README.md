@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnAzedo&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAzedo&layout=compact&langs_count=6&hide=JavaScript,HTML,CSS)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAzedo&layout=compact&langs_count=6&hide=JavaScript,HTML,CSS) -->
