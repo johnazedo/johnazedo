@@ -1,6 +1,7 @@
 ### Hi there, I'm Limão 👋
 
 - 🌱 I’m currently learning mobile delelopment and machine learning
+- 🔭 I’m currently working with web development
 <!--
 **JohnAzedo/JohnAzedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
