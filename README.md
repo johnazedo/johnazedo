@@ -1,23 +1,12 @@
-### Hi there, I'm Limão 👋
+### Hi there, I'm Limão 🍋👋
 
-- 🌱 I’m currently learning mobile delelopment and machine learning
-- 🔭 I’m currently working with web development
+I'am a full stack developer, focused on mobile and backend development.
+
+- 🌱 I’m currently learning flutter and machine learning.
+- 🔭 I’m currently working with backend development using Django Framework.
+- 🎓 Undergraduate student of Bachelor of Information Technology at the Federal University of Rio Grande do Norte (UFRN).
 
 ---
-<!--
-**JohnAzedo/JohnAzedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
 
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnAzedo&show_icons=true)
 
