@@ -3,7 +3,7 @@
 I'am a full stack developer, focused on mobile and backend development.
 
 - 🌱 I’m currently learning Flutter and machine learning.
-- 🔭 I’m currently working with backend development using Django Framework.
+- 🔭 I’m currently working with backend development using Django Framework and mobile development with Flutter.
 - 🎓 Undergraduate student of Bachelor of Information Technology at the Federal University of Rio Grande do Norte (UFRN).
 
 ---
