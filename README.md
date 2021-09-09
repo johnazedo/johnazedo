@@ -1,6 +1,6 @@
 ### Hi there, I'm Limão 🍋👋
 
-I'am a backend developer, also interested on mobile development.
+I'am a backend developer, also interested in mobile development.
 
 - 🌱 I’m currently learning Flutter an GoLang.
 - 🔭 I’m currently working with web development using Django Framework.
