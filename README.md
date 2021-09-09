@@ -2,8 +2,8 @@
 
 I'am a backend developer, also interested in mobile development.
 
-- 🌱 I’m currently learning Flutter an GoLang.
-- 🔭 I’m currently working with web development using Django Framework.
+- 🌱 I’m currently learning Flutter and GoLang.
+- 🔭 I’m currently working with backend development using Django Framework.
 - 🎓 Undergraduate student of Bachelor of Information Technology at the Federal University of Rio Grande do Norte (UFRN).
 ---
 
