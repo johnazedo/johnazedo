@@ -1,8 +1,8 @@
 ### Hi there, I'm Limão 🍋👋
 
-I'am a full stack developer, focused on mobile and backend development.
+I'am a backend developer, interested on mobile development.
 
-- 🌱 I’m currently learning Flutter and machine learning.
+- 🌱 I’m currently learning Flutter an GoLang.
 - 🔭 I’m currently working with web development using Django Framework.
 - 🎓 Undergraduate student of Bachelor of Information Technology at the Federal University of Rio Grande do Norte (UFRN).
 ---
