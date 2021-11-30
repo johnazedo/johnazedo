@@ -27,6 +27,4 @@ The list of technologies I'm currently studying or using on projects.
 
 <img src="https://github-readme-stats.vercel.app/api?username=johnazedo&show_icons=true&locale=en" alt="johnazedo"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnazedo&label=Profile%20views&color=0e75b6&style=flat" alt="johnazedo" /> </p>
-
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAzedo&layout=compact&langs_count=6&hide=JavaScript,HTML,CSS) -->
