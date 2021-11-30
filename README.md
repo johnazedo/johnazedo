@@ -7,7 +7,7 @@ I'am a backend and mobile developer!
 - 🎓 Undergraduate student of Bachelor of Information Technology at the Federal University of Rio Grande do Norte (UFRN).
 ---
 
-### Langage and tools
+### Language and tools
 The list of technologies I'm currently studying or using on projects.
 
 #### Mobile: 
