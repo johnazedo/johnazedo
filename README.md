@@ -2,7 +2,7 @@
 
 I'm a backend and Android developer.
 
-- 🌱 I’m currently learning Flutter and GoLang.
+- 🌱 I’m currently learning GoLang.
 - 🔭 I’m currently working with Mobile development using Kotlin to Android.
 - 🎓 Undergraduate student of Bachelor of Information Technology at the Federal University of Rio Grande do Norte (UFRN).
 ---
