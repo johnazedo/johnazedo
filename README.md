@@ -1,6 +1,6 @@
 ### Hi there, I'm Limão 🍋👋
 
-I'm a backend and mobile developer.
+I'm a backend and Android developer.
 
 - 🌱 I’m currently learning Flutter and GoLang.
 - 🔭 I’m currently working with Mobile development using Kotlin to Android.
