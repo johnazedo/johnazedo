@@ -44,6 +44,6 @@ The list of technologies I'm currently studying or using on projects.
 ---
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=johnazedo&show_icons=true&locale=en" alt="johnazedo"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnazedo&show_icons=true&locale=en" alt="johnazedo" /></p>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAzedo&layout=compact&langs_count=6&hide=JavaScript,HTML,CSS) -->
