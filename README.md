@@ -45,5 +45,5 @@ The list of technologies I'm currently studying or using on projects.
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnazedo&show_icons=true&locale=en" alt="johnazedo" /></p> -->
-![johnazedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnazedo&show_icons=true&count_private=true)
+<!-- ![johnazedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnazedo&show_icons=true&count_private=true) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAzedo&layout=compact&langs_count=6&hide=JavaScript,HTML,CSS) -->
