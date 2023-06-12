@@ -7,7 +7,7 @@ I'm a software engineer.
 - 🎓 Undergraduate student of Bachelor of Information Technology at the Federal University of Rio Grande do Norte (UFRN).
 <!-- --- -->
 
-#### Tools
+#### Favorite Tools
 
 <!-- <a href="https://dart.dev" target="_blank"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart"/> </a> -->
 <a href="https://developer.android.com" target="_blank"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" /></a>
