@@ -2,8 +2,8 @@
 
 I often say that there are only two things that make me study and learn more: Solve problems and help others.
 
-- 🌱 I’m currently learning GoLang and Rust.
-- 🔭 I’m currently working with Android development using Kotlin.
+- 🌱 I’m currently learning GoLang and Rust;
+- 🔭 I’m currently working with Android development using Kotlin;
 - 🎓 Undergraduate student of Bachelor of Information Technology at the Federal University of Rio Grande do Norte (UFRN).
 <!-- --- -->
 
