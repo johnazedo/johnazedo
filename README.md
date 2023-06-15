@@ -1,6 +1,6 @@
 ## Hi there, I'm Limão 🍋👋
 
-I'm a software engineer.
+I often say that there are only two things that make me study and learn more: Solve problems and help others.
 
 - 🌱 I’m currently learning GoLang and Rust.
 - 🔭 I’m currently working with Android development using Kotlin.
