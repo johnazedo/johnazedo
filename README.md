@@ -4,7 +4,7 @@ I often say that there are only two things that make me study and learn more: So
 
 - 🌱 I’m currently learning SpringBoot;
 - 🔭 I’m currently working with Android development using Kotlin;
-- 🎓 Undergraduate student of Bachelor of Information Technology at the Federal University of Rio Grande do Norte (UFRN).
+- 🎓 Computer science master's student at the Federal University of Rio Grande do Norte (UFRN).
 <!-- --- -->
 
 ### Tools
