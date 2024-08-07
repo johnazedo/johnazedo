@@ -3,7 +3,7 @@
 I often say that there are only two things that make me study and learn more: Solve problems and help others.
 
 A little about myself:
-- 🌱 I’m currently learning SpringBoot;
+<!-- - 🌱 I’m currently learning SpringBoot; -->
 - 🔭 I’m currently working with Android development using Kotlin;
 - 🎓 Computer Technician at the Federal Institute of Rio Grande do Norte (IFRN);
 - 🎓 Bachelor of Information Technology at the Federal University of Rio Grande do Norte (UFRN); 
